@@ -2,8 +2,9 @@
     margin: 0;
     padding: 0;
  }
+
 body{
- background-color: rgb(255, 223, 128);
+ background-color: rgb(255, 230, 153);
 }
  .head{
     font-size: 8vmin;
