@@ -1,0 +1,35 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+.prog2 img{
+
+    display: flex;
+    width: 70vw;
+    margin-left: 15vw;
+
+}
+.prog2{
+
+    margin-top: 10vh;
+}
+.head{
+    text-align: center;
+    font-size: 10vmin;
+    color:rgba(54, 134, 54, 0.801);
+    margin-top: 15vh;
+}
+.home a{
+    text-decoration: none;
+    font-size: 10vmin;
+    color: rgba(54, 134, 54, 0.801);
+    display: inline-block;
+    margin-top: 10vh;
+}
+.home{
+    display: inline-block;
+    margin-left: 10vw;
+    /* margin-top: 10vh; */
+    /* border: 2px solid black; */
+}

@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.img{
+    width: 40vw;
+    height: 70vh;
+    background-image: url("../images/mail1.png");
+    background-repeat: no-repeat;
+    /* border: 2px solid black; */
+    margin-top: 8vh;
+    margin-left: 5vw;
+    display: inline-block;
+    background-size: 100% 100%;
+}
+.contact {
+    font-size: 5vmin;
+    font-weight: bold;
+    color: rgb(30, 131, 89);
+    margin-left: 40vw;
+    display: flex;
+    margin-top: 5vh;
+}
+.email{
+    width: 40vw;
+    height: 12vh;
+    display: inline-block;
+    /* border: 2px solid black; */
+    display: inline-block;
+    position: absolute;
+    margin-left: 10vw;
+    top: 50vh;
+    text-align: center;
+    font-size: 5vmin;
+    color: rgb(30, 131, 89);;
+}
+
+.email u{
+    color: rgba(247, 19, 19, 0.705);
+}
