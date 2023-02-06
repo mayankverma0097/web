@@ -3,12 +3,20 @@ body{
   }
 
 p a{
-    text-decoration: none; font-size: 10vmin; color: rgba(53, 160, 110, 0.849);
+    text-decoration: none; font-size: 8vmin; color: rgba(53, 160, 110, 0.849);
     display: inline-block;
     margin-left: 10vw;
     margin-top: 10vh;
 }
 
+.divide1{
+    width: 80vw;
+    height: 5vh;
+    background-color: rgba(212, 199, 199, 0.61);
+    display: flex;
+    margin-left: 10vw;
+    margin-top: 2vh;
+}
 
 
 h1{
