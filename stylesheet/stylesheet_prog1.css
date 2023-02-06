@@ -2,6 +2,15 @@ body{
    background-color: rgb(255, 250, 230);
   }
 
+p a{
+    text-decoration: none; font-size: 10vmin; color: rgba(53, 160, 110, 0.849);
+    display: inline-block;
+    margin-left: 10vw;
+    margin-top: 10vh;
+}
+
+
+
 h1{
     color: rgb(88, 168, 124);
     display: inline-block;
