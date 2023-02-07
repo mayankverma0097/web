@@ -37,3 +37,17 @@ body{
     margin-top: 5vh;
     color: rgb(42, 155, 98);
  }
+@media screen and (max-width:600px) {
+   .img1{
+      height: 30vh;
+      width: 80vw;
+      margin-left: 10vw;
+
+   }
+   h1{
+      margin-left: 32vw;
+   }
+   .about{
+      font-size: 8vmin;
+   }
+}

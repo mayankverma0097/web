@@ -34,8 +34,34 @@ h1{
     color: rgb(89, 175, 128);
     background-color: rgba(212, 199, 199, 0.61);
     width: 80vw;
-    height: 100vh;
+    /* height: 100vh; */
     margin-left: 10vw;
     font-size: 4vmin;
     margin-top: 10vh;
+    
+ }
+ .prog1 p{
+    margin-left: 20vw;
+ }
+
+ @media screen and (max-width:600px) {
+    p a{
+        font-size: 12vmin;
+        margin-left: 15vw;
+    }
+
+    .divide1{
+        margin-top: 5vh;
+    }
+
+    .prog1{
+        font-size: 6vmin;
+    }
+      .prog1 p{
+        margin-left: 1vw;
+      }
+
+    h1 u{
+        font-size: 10vmin;
+    }
  }
