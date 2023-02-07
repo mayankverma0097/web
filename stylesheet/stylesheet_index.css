@@ -132,8 +132,8 @@ body{
             
          }
          .head{
-             display: flex;
-             margin-left: 2vw;
+             display: inline-block;
+             margin-left: 5vw;
          }
          
 
