@@ -4,7 +4,8 @@
  }
 
 body{
- background-color: rgb(255, 250, 230);
+ /* background-color: rgb(255, 250, 230); */
+
 }
  .head{
     font-size: 8vmin;
@@ -16,7 +17,8 @@ body{
  }
  .head a{
     text-decoration: none;
-    color: rgb(104, 189, 142);;
+    /* color: rgb(104, 189, 142); */
+    color: rgb(255, 102, 102);
  }
  .nav{
 
@@ -44,7 +46,7 @@ body{
  .nav ul li a{
     font-size: 5vmin;
     text-decoration: none;
-    color: rgb(104, 189, 142);
+    color: rgb(255, 128, 128);
     /* font-weight: bold; */
     
     
@@ -68,7 +70,7 @@ body{
        margin-top: 5vh;
        font-size: 4vmin;
        background-color: rgba(212, 199, 199, 0.61);
-           color: rgb(63, 158, 106);
+           color: rgb(255, 128, 128);
        
 
      }
@@ -76,7 +78,7 @@ body{
       .copy{
 
        font-size: 5vmin;
-       color: rgb(104, 189, 142);
+       color: rgb(255, 128, 128);
        margin-top: 5vh;
       }
 
