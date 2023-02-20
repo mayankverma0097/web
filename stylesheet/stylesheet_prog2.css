@@ -6,6 +6,10 @@
 
 body{
  background-color: rgb(255, 250, 230);
+ background-image: url(../images/index_img4.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: 100%,100%;
 }
 
 .prog2 img{
@@ -22,15 +26,16 @@ body{
 .head{
     text-align: center;
     font-size: 10vmin;
-    color:rgba(54, 134, 54, 0.801);
+    color:white;
     margin-top: 15vh;
 }
 .home a{
     text-decoration: none;
-    font-size: 10vmin;
-    color: rgba(54, 134, 54, 0.801);
+    font-size: 8vmin;
+    color: white;
     display: inline-block;
     margin-top: 10vh;
+    margin-left: 5vw;
 }
 .home{
     display: inline-block;

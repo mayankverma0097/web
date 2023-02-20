@@ -4,11 +4,15 @@
    padding:0;
 }
 body{
-   background-color: rgb(255, 250, 230);
+   /* background-color: rgb(255, 250, 230); */
+   background-image: url(../images/index_img4.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: 100%,100%;
   }
 
 p a{
-    text-decoration: none; font-size: 8vmin; color: rgba(53, 160, 110, 0.849);
+    text-decoration: none; font-size: 8vmin; color: white;
     display: inline-block;
     margin-left: 10vw;
     margin-top: 10vh;
@@ -25,13 +29,13 @@ p a{
 
 
 h1{
-    color: rgb(88, 168, 124);
+    color: white;
     display: inline-block;
     margin-top: 10vh;
     font-size: 7vmin;
 }
  .prog1{
-    color: rgb(89, 175, 128);
+    color:black;
     background-color: rgba(212, 199, 199, 0.61);
     width: 80vw;
     /* height: 100vh; */
