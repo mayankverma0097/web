@@ -5,10 +5,10 @@
 
 body{
  /* background-color: rgb(255, 250, 230); */
- background-image: url("../images/index_img4.jpg");
+ /* background-image: url("../images/index_img4.jpg");
  background-repeat: no-repeat;
  background-attachment: fixed;
- background-size: 100% 100%;
+ background-size: 100% 100%; */
 }
 .img{
     width: 40vw;
@@ -24,7 +24,7 @@ body{
 .contact {
     font-size: 5vmin;
     font-weight: bold;
-    color: white;
+    color: rgba(39, 177, 101, 0.753);
     margin-left: 40vw;
     display: flex;
     margin-top: 5vh;
@@ -40,11 +40,11 @@ body{
     top: 50vh;
     text-align: center;
     font-size: 5vmin;
-    color: white;
+    color: rgba(39, 177, 101, 0.753);
 }
 
 .email u{
-    color: white;
+    color: rgba(39, 177, 101, 0.753);
 }
 
 @media screen and (max-width:600px) {

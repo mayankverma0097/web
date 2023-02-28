@@ -4,10 +4,10 @@
  }
 body{
 
- background-image: url(../images/index_img4.jpg);
+ /* background-image: url(../images/index_img4.jpg);
  background-repeat: no-repeat;
  background-attachment: fixed;
- background-size: 100% 100%;
+ background-size: 100% 100%; */
  
 }
 
@@ -15,7 +15,7 @@ body{
 
     width: 50vw;
     height: 60vh;
-    background-image: url("../images/about_image.jpeg");
+    background-image: url("../images/logo3.png");
     background-repeat: no-repeat;
     background-size: 100%,100%;
     display: flex;
@@ -27,7 +27,7 @@ body{
     display: flex;
     margin-left: 40vw;
     margin-top: 5vh;
-    color: white;
+    color: rgba(39, 177, 101, 0.753);
     font-size: 10vmin;
  }
 
@@ -40,7 +40,7 @@ body{
     display: flex;
     margin-left: 10vw;
     margin-top: 5vh;
-    color: white;
+    
  }
 @media screen and (max-width:600px) {
    .img1{
