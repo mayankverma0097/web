@@ -10,6 +10,17 @@ body{
  background-attachment: fixed;
  background-size: 100% 100%; */
 }
+.img1{
+
+    width: 80vw;
+    height: 60vh;
+    background-image: url("../images/logo3.png");
+    background-repeat: no-repeat;
+    background-size: 100%,100%;
+    display: flex;
+    margin-left: 10vw;
+    /* margin-top: 5vh; */
+ } 
 .img{
     width: 40vw;
     height: 70vh;
@@ -37,7 +48,7 @@ body{
     /* display: inline-block; */
     position: absolute;
     margin-left: 10vw;
-    top: 50vh;
+    top: 95vh;
     text-align: center;
     font-size: 5vmin;
     color: rgba(39, 177, 101, 0.753);

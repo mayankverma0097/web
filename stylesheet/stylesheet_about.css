@@ -13,23 +13,23 @@ body{
 
   .img1{
 
-    width: 50vw;
+    width: 80vw;
     height: 60vh;
     background-image: url("../images/logo3.png");
     background-repeat: no-repeat;
     background-size: 100%,100%;
     display: flex;
-    margin-left: 25vw;
-    margin-top: 5vh;
+    margin-left: 10vw;
+    /* margin-top: 5vh; */
  } 
- h1{
+ /* h1{
 
     display: flex;
     margin-left: 40vw;
     margin-top: 5vh;
     color: rgba(39, 177, 101, 0.753);
-    font-size: 10vmin;
- }
+    font-size: 5vmin;
+ } */
 
  .about {
 
