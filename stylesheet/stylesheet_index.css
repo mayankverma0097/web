@@ -19,7 +19,7 @@ body{
    background-repeat: no-repeat;
    background-size: 100% 100%;
    border: 0ch;
-   position: absolute;
+   position: fixed;
    left: 90vw;
    top: 8vh;
    
@@ -32,7 +32,7 @@ body{
    background-repeat: no-repeat;
    background-size: 100% 100%;
    border: 0ch;
-   position: absolute;
+   position: fixed;
    left: 90vw;
    top: 8vh;
    display: none;
