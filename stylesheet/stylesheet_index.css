@@ -40,7 +40,7 @@ body{
 #btn3{
 width:15vw;
 height: 8vh;
-display: none;
+/* display: none; */
 }
 #btn4{
    width:15vw;
@@ -191,7 +191,7 @@ display: none;
          
 
          .img1{
-              height: 35vh;
+              height: 30vh;
               background-image: url("../images/logo3.1.png");
          }
 
@@ -234,13 +234,13 @@ display: none;
 
 
           #btn1{
-            width: 10vw;
-            height: 6vh;
+            width: 8vw;
+            height: 4vh;
             left:90vw; 
          }
          #btn2{
-            width: 10vw;
-            height: 6vh;
+            width: 8vw;
+            height: 4vh;
             left:90vw; 
          }
 
@@ -249,7 +249,7 @@ display: none;
          #btn3{
             display: inline-block;
             position: absolute;
-            top:38vh;
+            top:32vh;
             left: 45vw;
             border: 0ch;
             background-image: url("../images/menu.png");
@@ -259,7 +259,7 @@ display: none;
          #btn4{
             display: none;
             position: absolute;
-            top:38vh;
+            top:32vh;
             left: 45vw;
             border: 0ch;
             background-image: url("../images/menucut.jpg");
