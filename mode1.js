@@ -42,7 +42,7 @@
    btn3.style.display="none";
    btn4.style.display="inline-block";
    content[0].style.margin="5vh 10vw";
-   
+   content[0].style.margin="5vh 0vh 0vw 10vw"; 
 
  })
  btn4.addEventListener('click',function(){
@@ -50,7 +50,7 @@
    nav[0].style.display="none";
    btn4.style.display="none";
    btn3.style.display="flex";
-   content[0].style.margin="15vh 10vw";
+   content[0].style.margin="15vh 0vh 0vw 10vw";
    
 
  })
