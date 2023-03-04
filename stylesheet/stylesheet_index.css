@@ -40,7 +40,7 @@ body{
 #btn3{
 width:15vw;
 height: 8vh;
-/* display: none; */
+display: none;
 }
 #btn4{
    width:15vw;
