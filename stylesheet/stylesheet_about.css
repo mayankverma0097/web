@@ -14,10 +14,10 @@ body{
   .img1{
 
     width: 80vw;
-    height: 60vh;
-    background-image: url("../images/logo3.png");
+    height: 80vh;
+    background-image: url("../images/logo_head.jpg");
     background-repeat: no-repeat;
-    background-size: 100%,100%;
+    background-size: 100% 100%;
     display: flex;
     margin-left: 10vw;
     /* margin-top: 5vh; */
@@ -38,12 +38,14 @@ body{
     border: 2px solid black; */
     font-size: 5vmin;
     display: flex;
-    margin-left: 10vw;
-    margin-top: 5vh;
+    margin-left: 15vw;
+    margin-top: 8vh;
+   color: rgb(194, 32, 32);
     
  }
 @media screen and (max-width:600px) {
    .img1{
+      background-image: url("../images/logo_resp.png");
       height: 30vh;
       width: 80vw;
       margin-left: 10vw;

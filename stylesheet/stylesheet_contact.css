@@ -13,10 +13,10 @@ body{
 .img1{
 
     width: 80vw;
-    height: 60vh;
-    background-image: url("../images/logo3.png");
+    height: 80vh;
+    background-image: url("../images/logo_head.jpg");
     background-repeat: no-repeat;
-    background-size: 100%,100%;
+    background-size: 100% 100%;
     display: flex;
     margin-left: 10vw;
     /* margin-top: 5vh; */
@@ -35,7 +35,7 @@ body{
 .contact {
     font-size: 5vmin;
     font-weight: bold;
-    color: rgba(39, 177, 101, 0.753);
+    color: rgb(194, 32, 32);
     margin-left: 40vw;
     display: flex;
     margin-top: 5vh;
@@ -51,14 +51,19 @@ body{
     top: 95vh;
     text-align: center;
     font-size: 5vmin;
-    color: rgba(39, 177, 101, 0.753);
+    color: rgb(194, 32, 32);
 }
 
 .email u{
-    color: rgba(39, 177, 101, 0.753);
+    color:rgb(194, 32, 32);
 }
 
 @media screen and (max-width:600px) {
+    .img1{
+        width: 80vw;
+        height: 40vh;
+        background-image: url("../images/logo_resp.png");
+    }
     .img{
         display: inline-block;
         margin-left: 13vw;

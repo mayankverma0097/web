@@ -73,12 +73,13 @@ display: none;
     display: flex;
     margin-left: 10vw;
     background-color: rgba(212, 199, 199, 0.61);
-    
+   
  }
  .nav ul{
 
     display: inline-block;
     margin-top: 2vh;
+    
  }
  .nav ul li {
     display: inline;
@@ -92,22 +93,23 @@ display: none;
     /* color: rgb(255, 128, 128); */
     /* color: white; */
     /* font-weight: bold; */
-    color: rgba(39, 177, 101, 0.753);
+    color: rgb(194, 32, 32);
     
     
  }
+ 
  .nav ul li a:hover{
    color: red;
  }
  .img1{
 
     width: 80vw;
-    height: 60vh;
+    height: 80vh;
     /* border: 2px solid black; */
     display: flex;
     margin-left: 10vw;
     /* margin-top: 15vh; */
-    background-image: url("../images/logo3.png");
+    background-image: url("../images/logo_head.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
  }
@@ -119,7 +121,7 @@ display: none;
        font-size: 4vmin;
        background-color: rgba(212, 199, 199, 0.61);
            /* color: rgb(255, 128, 128); */
-           color: rgba(39, 177, 101, 0.753);
+           color:rgb(194, 32, 32);
        
 
      }
@@ -128,7 +130,7 @@ display: none;
 
        font-size: 5vmin;
        /* color: rgb(255, 128, 128); */
-       color: rgba(39, 177, 101, 0.753);
+       color: rgb(194, 32, 32);
        margin-top: 5vh;
       }
 
@@ -142,6 +144,15 @@ display: none;
        margin-top: 10vh;
        background-color: rgba(212, 199, 199, 0.61);
        text-align: center;
+       color:black;
+      }
+      .prog h1{
+         color:rgb(194, 32, 32);
+         font-size: 8vmin;
+      }
+      .prog{
+         font-size: 5vmin;
+         color:rgb(194, 32, 32);
       }
 
       .prog2{
@@ -192,7 +203,7 @@ display: none;
 
          .img1{
               height: 30vh;
-              background-image: url("../images/logo3.1.png");
+              background-image: url("../images/logo_resp.png");
          }
 
          .content{
