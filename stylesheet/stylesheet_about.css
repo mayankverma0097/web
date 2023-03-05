@@ -45,7 +45,7 @@ body{
  }
 @media screen and (max-width:600px) {
    .img1{
-      background-image: url("../images/logo_resp.png");
+      background-image: url("../images/logo_head.jpg");
       height: 30vh;
       width: 80vw;
       margin-left: 10vw;
