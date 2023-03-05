@@ -73,6 +73,7 @@ display: none;
     display: flex;
     margin-left: 10vw;
     background-color: rgba(212, 199, 199, 0.61);
+    border-radius: 10px;
    
  }
  .nav ul{
@@ -112,6 +113,7 @@ display: none;
     background-image: url("../images/logo_head.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    /* border-radius: 15px; */
  }
      .content{
 
@@ -122,6 +124,7 @@ display: none;
        background-color: rgba(212, 199, 199, 0.61);
            /* color: rgb(255, 128, 128); */
            color:rgb(194, 32, 32);
+           border-radius: 10px;
        
 
      }
@@ -145,6 +148,7 @@ display: none;
        background-color: rgba(212, 199, 199, 0.61);
        text-align: center;
        color:black;
+       border-radius: 15px;
       }
       .prog h1{
          color:rgb(194, 32, 32);
@@ -153,6 +157,7 @@ display: none;
       .prog{
          font-size: 5vmin;
          color:rgb(194, 32, 32);
+         
       }
 
       .prog2{
